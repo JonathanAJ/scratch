@@ -296,7 +296,7 @@ int MeshAulaRPG::Run() {
   {
         if (i->second.rxBytes > 0){
             
-            std::string MY_FILE = "/opt/ns-allinone-3.27/ns-3.27/scratch/data.csv";
+            std::string MY_FILE = "/content/a/ns-allinone-3.28/ns-3.28/scratch/data.csv";
 
             if(std::fstream{MY_FILE}){
               std::ofstream myfile(MY_FILE, std::ios::app);

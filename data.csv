@@ -1,0 +1,2 @@
+xSize;ySize;NumberFlows;Seed;StandardPHY;Step;PacketSize;PacketInterval;DeliveryRate;Throughput;DelayMean;JitterMean;TxBytes;RxBytes;TxPackets;RxPackets;LostPackets;DelaySum;JitterSum;MeanTransmittedPacketSize;MeanTransmittedBitrate;MeanHopCount;PacketLossRatio;MeanReceivedPacketSize;MeanReceivedBitrate;
+
